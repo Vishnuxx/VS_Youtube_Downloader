@@ -14,4 +14,5 @@
   
   ## Usage
   1. cd VS_Youtube_Downloader
+  2. cd vs_ytd
   2. python3 vs_ytd.py
