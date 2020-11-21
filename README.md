@@ -1,5 +1,5 @@
-###About VS_Youtube_Downloader
-   This tool is a simple program which is used to download youtube videos directly.
+## About VS_Youtube_Downloader
+   Simple tool which is used to download youtube videos
  
   ## Installation
   ## In Linux / Termux
