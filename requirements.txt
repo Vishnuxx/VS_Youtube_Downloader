@@ -1,2 +1,4 @@
 pip install pafy
 pip install shutil
+pip install ytdl
+pip install youtube-dl
