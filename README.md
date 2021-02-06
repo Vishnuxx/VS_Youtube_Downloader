@@ -6,9 +6,9 @@
   Follow these steps:
 
   1. apt update&&upgrade
-  2. pip install -r requirements.txt
-  6. git clone https://github.com/Vishnuxx/VS_Youtube_Downloader.git
-  
+  2. git clone https://github.com/Vishnuxx/VS_Youtube_Downloader.git
+  3. pip install -r requirements.txt
+
   ## Usage
   1. cd VS_Youtube_Downloader
   2. cd vs_ytd
